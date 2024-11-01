@@ -1,0 +1,62 @@
+# Copyright (C) 2024 Youssef Bouhlal
+# This file is distributed under the GPLv2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Youbou Code Block 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/youbou-code-block\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-07-17T21:27:20+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.10.0\n"
+"X-Domain: youbou-code-block\n"
+
+#. Plugin Name of the plugin
+#: youbou-code-block.php
+msgid "Youbou Code Block"
+msgstr ""
+
+#. Plugin URI of the plugin
+#: youbou-code-block.php
+msgid "https://github.com/YoussefBouhlal/youbou-code-block"
+msgstr ""
+
+#. Description of the plugin
+#: youbou-code-block.php
+msgid "Code block with syntax highlighting for gutenberg editor."
+msgstr ""
+
+#. Author of the plugin
+#: youbou-code-block.php
+msgid "Youssef Bouhlal"
+msgstr ""
+
+#. Author URI of the plugin
+#: youbou-code-block.php
+msgid "pro.youssef.bouhlal@gmail.com"
+msgstr ""
+
+#. Translators: The minimum PHP version
+#: includes/Main.php:74
+msgid "Youbou Show Hooks Plugin requires a minimum PHP version of %s."
+msgstr ""
+
+#. Translators: The minimum WP version
+#: includes/Main.php:79
+msgid "Youbou Show Hooks Plugin requires a minimum WordPress version of %s."
+msgstr ""
+
+#: build/v-1/block.json
+#: src/v-1/block.json
+msgctxt "block title"
+msgid "Youbou Code Block"
+msgstr ""
+
+#: build/v-1/block.json
+#: src/v-1/block.json
+msgctxt "block description"
+msgid "Code block with syntax highlighting."
+msgstr ""
